@@ -1,6 +1,10 @@
-<h2> Hi, I'm Ekto <img
-src="https://media.giphy.com/media/40676VM9I9o1EYaKem/giphy.gif" width="40"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em><a href="https://crowdin.com/profile/ekto">My Crowdin Account🦨</a><img src="https://media.giphy.com/media/VJYVyuUGpz7ABJPDS6/giphy.gif" width="30"></br>Developer at <a href="https://domain.com">Wallpaper Bot</a><img src="https://media.giphy.com/media/VJYVyuUGpz7ABJPDS6/giphy.gif" width="30"> 
-  
-</em></p>[![GitHub heyekto](https://img.shields.io/github/followers/heyekto?label=follow&style=social)](https://github.com/heyekto)
+### Welcome to My Github profile I'm Discord Bot Developer And Translator ☁️
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://dev.to/ekto"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+</p>
