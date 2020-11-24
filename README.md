@@ -1,24 +1,8 @@
-### <div align="center">I'm Ekto, I'm Forentend Developer 👨‍💻</div>  
-  
-
+### <div align="center">I'm Ekto, I'm Forentend Developer 👨‍💻</div>
 - 🧸 I’m currently working on [Wallpaper Discord Bot](https://github.com/Wallpaper-Bot)  
-  
-
 - 🧦 I’m currently learning Phyton   
 <br/>  
 </td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/ekto" target="_blank">
@@ -36,13 +20,4 @@
 <a href="https://dribbble.com/ekto" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+</div> 
