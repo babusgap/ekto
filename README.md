@@ -5,8 +5,6 @@
   
 
 - 🧦 I’m currently learning Phyton   
-  
-
 <br/>  
 </td><td valign="top" width="33%">
 
