@@ -1,4 +1,3 @@
-### <div align="center">I'm Ekto, I'm Forentend Developer 👨‍💻</div>
 - 🧸 I’m currently working on [Wallpaper Discord Bot](https://github.com/Wallpaper-Bot)  
 - 🧦 I’m currently learning Phyton   
 <br/>  
