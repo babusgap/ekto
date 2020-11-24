@@ -46,13 +46,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Spotify
-<br/>  
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=4nfkxixs5shwvwgp5hc4acd3w&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=4nfkxixs5shwvwgp5hc4acd3w&cover_image=true&theme=default" /></div>  
-<br/>  
-<br/>  
-
-<div align="center"></div>
-<br />
