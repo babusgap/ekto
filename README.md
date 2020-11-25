@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ekto</h1>
 <h3 align="center">I'm Translator And Discord Bot Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekto&label=Profile%20views&color=0e75b6&style=flat" alt="ekto" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekto&label=Profile%20views&color=f1d177&style=flat" alt="ekto" /> </p>
 
 </a> </p>
 
