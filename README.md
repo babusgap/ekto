@@ -6,5 +6,4 @@
 <a href="https://instagram.com/egebutera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="egebutera" height="30" width="40" /></a>
 <a href="https://dribbble.com/ekto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ekto" height="30" width="40" /></a>
 <a href="https://medium.com/@heyekto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@heyekto" height="30" width="40" /></a>
-<a href="https://http://dsc.bio/ekto" target="blank"><img align="center" src="https://wiki.miranda-ng.org/images/4/4d/Discord-Logo-Black.png" alt="@heyekto" height="30" width="40" /></a>  
-</p>
+
