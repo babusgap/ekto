@@ -9,16 +9,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
--->
-<h3>🛠 To Learn</h3>
-- 🔧 &nbsp; Phyton
 <hr>
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
 </p>
 <hr>
