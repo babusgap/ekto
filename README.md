@@ -1,19 +1,25 @@
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/4nfkxixs5shwvwgp5hc4acd3w)
+### Hi there 👋<h2> I'm Ekto</h2>
 
-  </td>
-  <td width="50%">
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ekto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ekto" height="30" width="40" /></a>
-<a href="https://twitter.com/heyekto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="heyekto" height="30" width="40" /></a>
-<a href="https://instagram.com/egebutera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="egebutera" height="30" width="40" /></a>
-<a href="https://dribbble.com/ekto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="ekto" height="30" width="40" /></a>
-<a href="https://medium.com/@heyekto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@heyekto" height="30" width="40" /></a>
+<img align='right' src="https://media.giphy.com/media/MZWb0ZZyfgtxVMDu6d/giphy.gif" width="230">
+<h3> 💻 About Me </h3>
+- 🌱 &nbsp; Learning Phyton
+- ✍️ &nbsp; Website Design, UI/UX Design, Translate
+<h3>🛠 Tech Stack</h3>
+- 🌐 &nbsp; HTML | CSS | JavaScript
+<!--
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-[//]: <> (Old Visits: https://badges.pufler.dev/visits/ekto/ekto?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown
+- 🖥 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
+-->
+<h3>🛠 To Learn</h3>
+- 🔧 &nbsp; Phyton
+<hr>
+<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+
+<a href="https://www.ekto.dev/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.instagram.com/egebutera/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="mailto:heyekto@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+<hr>
