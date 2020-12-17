@@ -12,7 +12,6 @@
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
-<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fteamcard%2FYEYqNVdE" width="268" height="357" frameborder="0" scrolling="no"></iframe>
 <hr>
 </p>
 <hr>
