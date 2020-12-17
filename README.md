@@ -4,7 +4,6 @@
 <h3> 💻 About Me </h3>
 
 - 🌱 &nbsp; Learning Phyton
-
 - ✍️ &nbsp; Website, UI/UX Design, Translate
 <h3>🛠 Tech Stack</h3>
 
