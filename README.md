@@ -12,5 +12,3 @@
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
 <hr>
-</p>
-<hr>
