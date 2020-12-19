@@ -10,4 +10,10 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Git | Markdown
 - 💾 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effect
+<p align="center">
+  <a href="https://github.com/ekto"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://reddit.com/user/heyekto"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
+  <a href="https://open.spotify.com/user/qok30zfayoi98bw2ctxsto49b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+  <a href="https://twitter.com/ekto_dev"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+</p>
 <hr>
