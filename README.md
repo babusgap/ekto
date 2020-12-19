@@ -10,4 +10,5 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Git | Markdown
 - 💾 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effect
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=itzasuna&redirect=true)
 <hr>
