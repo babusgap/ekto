@@ -10,6 +10,8 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Git | Markdown
 - 💾 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effect
+<details>
+<h3>📂 Social Media</h3>
 <p align="left">
   <a href="https://github.com/ekto"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a href="https://reddit.com/user/heyekto"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
