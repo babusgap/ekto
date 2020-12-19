@@ -10,7 +10,4 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Git | Markdown
 - 💾 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effect
-</details>
-
-![ekto's github stats](https://github-readme-stats.vercel.app/api?username=ekto&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 <hr>
