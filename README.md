@@ -5,10 +5,12 @@
 
 - 🌱 &nbsp; Learning Phyton
 - ✍️ &nbsp; Website, UI/UX Design, Translate
-<h3>🛠 Tech Stack</h3>
+<h3>📂 Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
-- 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
+- 💾 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
+<h3>🎈 Social Media And Other</h3>
+- 🌳 &nbsp; [Instagram][instagram.com/egebutera] | [Guilded][guilded.gg/ekt] | [DEV][dev.to/ekto] | [Spotify][https://open.spotify.com/user/qok30zfayoi98bw2ctxsto49b] | [DeviantArt][https://www.deviantart.com/egedoja]
+[My Personal Website][https://ekto.dev]
 <hr>
