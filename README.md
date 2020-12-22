@@ -10,6 +10,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Git | Markdown
 - 💾 &nbsp; Illustrator | Photoshop | Adobe Xd | After Effects
+- 💻 &nbsp; HTML | CSS | JavaScript
 <details>
 <h3>📂 Social Media</h3>
 <p align="left">
