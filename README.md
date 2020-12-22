@@ -17,5 +17,7 @@
   <a href="https://reddit.com/user/heyekto"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>
   <a href="https://open.spotify.com/user/qok30zfayoi98bw2ctxsto49b"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
   <a href="https://twitter.com/ekto_dev"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
+  <a href="https://guilded.gg/ekto"><img alt="Guilded" title="Guilded" height="32" width="32"
+src="https://cdn-images-1.medium.com/max/280/1*vCc1TiaN1QAZKRptiEgP1Q@2x.png"></a>
 </p>
 <hr>
